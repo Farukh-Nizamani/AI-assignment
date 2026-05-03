@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "text": "Do most people think of you as bizzare because you have no social skills?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 2,
+    "text": "Do you sometimes find yourself unable to process other people's words",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 3,
+    "text": "Do you think your brain processes slowly compared to most people?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 4,
+    "text": "Do you need to be told somethings most understand on their own and they are surprised you don't?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 5,
+    "text": "How often do you stim?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 6,
+    "text": "Do you feel or are often called weird?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 7,
+    "text": "Do people believe you are rude or angry even when you clearly are not?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 8,
+    "text": "Are you a bit too honest?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 9,
+    "text": "Do you find things uninteresting most people enjoy?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 10,
+    "text": "Do you take things too literally?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 11,
+    "text": "Can you read between the lines?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 12,
+    "text": "Do you avoid crowd because it makes it difficult for you to socialize or even process your envionrment",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 13,
+    "text": "Can you spot white lies?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 14,
+    "text": "Do you find things funny which most people find funny?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  },
+  {
+    "id": 15,
+    "text": "Do you sometimes feel like you can't control your body fully?",
+    "choices": ["Certainly", "Only a little", "Certainly not", "Not sure"]
+  }
+]

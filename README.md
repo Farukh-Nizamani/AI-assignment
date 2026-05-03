@@ -10,7 +10,8 @@ This repository builds a local web application that asks 20 multiple‑choice qu
 ### Stack
 - **FastAPI** – Backend exposing a `/predict` endpoint.
 - **PyTorch** – Tiny placeholder model that maps the 20 answers to a probability.
-- **Streamlit** – Frontend UI that displays all questions, collects answers, calls the API, and shows the result.
+- **Streamlit & CSS** – Frontend UI that displays all questions, collects answers, calls the API, and shows the result.
+
 
 ### Project Structure
 ```
